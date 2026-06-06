@@ -1,4 +1,5 @@
 const jwt = require("jsonwebtoken");
+// Middleware to verify JWT token
 
 const protect = (req, res, next) => {
   let token;
