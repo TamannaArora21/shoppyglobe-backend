@@ -167,6 +167,6 @@ https://github.com/TamannaArora21/shoppyglobe-backend.git
 
 ## Author
 
-Tamanna
+Tamanna Arora
 
 Backend Project – ShoppyGlobe E-commerce Application
