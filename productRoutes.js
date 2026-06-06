@@ -5,6 +5,7 @@ const {
   getProducts,
   getProductById,
 } = require("../controllers/productController");
+// Product routes
 
 router.get("/", getProducts);
 router.get("/:id", getProductById);
